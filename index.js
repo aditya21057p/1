@@ -651,3 +651,4 @@ function endGame(who) {
     }
     setTimeout(restartGame, 800);
 }
+//hero
