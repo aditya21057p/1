@@ -1,4 +1,4 @@
-# covid-case-in-india-by-aditya
+# Tic tac toe game
 
 demo page is here 
 
